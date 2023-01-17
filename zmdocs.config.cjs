@@ -24,57 +24,57 @@ module.exports = {
     {
       title: 'Inspirations',
       href: '/fearpg/inspirations/',
-      dir: 'docs/inspirations'
+      dir: 'inspirations'
     },
     {
       title: 'RPG Systems',
       href: '/fearpg/rpg-systems/',
-      dir: 'docs/rpg-systems'
+      dir: 'rpg-systems'
     },
     {
       title: 'Story design',
       href: '/fearpg/story-design/',
-      dir: 'docs/story-design'
+      dir: 'story-design'
     },
     {
       title: 'Worldbuilding',
       href: '/fearpg/worldbuilding/',
-      dir: 'docs/worldbuilding'
+      dir: 'worldbuilding'
     },
     {
       title: 'Character design',
       href: '/fearpg/character-design/',
-      dir: 'docs/character-design'
+      dir: 'character-design'
     },
     {
       title: 'Storytelling',
       href: '/fearpg/storytelling/',
-      dir: 'docs/storytelling'
+      dir: 'storytelling'
     },
     {
       title: 'Play',
       href: '/fearpg/play/',
-      dir: 'docs/play'
+      dir: 'play'
     },
     {
       title: 'Environment & mood',
       href: '/fearpg/environment-and-mood/',
-      dir: 'docs/environment-and-mood'
+      dir: 'environment-and-mood'
     },
     {
       title: 'Player Engagement',
       href: '/fearpg/player-engagement/',
-      dir: 'docs/player-engagement'
+      dir: 'player-engagement'
     },
     {
       title: 'Final notes',
       href: '/fearpg/final-notes/',
-      dir: 'docs/final-notes'
+      dir: 'final-notes'
     },
     {
       title: 'References & Resources',
       href: '/fearpg/references-and-resources/',
-      dir: 'docs/references-and-resources'
+      dir: 'references-and-resources'
     }
   ],
   _template: 'default',   // Use the `default` template
