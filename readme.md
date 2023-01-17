@@ -1,3 +1,3 @@
-# Hello World
+# fearpg
 
-this is a test
+> A framework for setting up horror RPG adventures
