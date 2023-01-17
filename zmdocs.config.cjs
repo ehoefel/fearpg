@@ -22,9 +22,9 @@ module.exports = {
       dir: 'docs'
     },
     {
-      title: 'Readings',
-      href: '/horror-rpg-framework/readings/',
-      dir: 'docs/readings'
+      title: 'Inspirations',
+      href: '/horror-rpg-framework/inspirations/',
+      dir: 'docs/inspirations'
     },
     {
       title: 'RPG Systems',
