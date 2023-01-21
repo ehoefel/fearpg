@@ -22,11 +22,6 @@ module.exports = {
       dir: ''
     },
     {
-      title: 'Inspirations',
-      href: '/fearpg/inspirations/',
-      dir: 'inspirations'
-    },
-    {
       title: 'RPG Systems',
       href: '/fearpg/rpg-systems/',
       dir: 'rpg-systems'
